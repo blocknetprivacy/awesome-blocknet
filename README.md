@@ -34,6 +34,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [BNTPool](https://bntpool.com/#/start) - The first BNT Pool
 - [Longhorn Pool](https://www.longhornpool.net/) - BNT Pool with 0% pool fee, PPLNS and SOLO
 - [NTMminer Pool](https://kc.txedu.social/#/) - Chinese-language BNT Pool with 0% fee, PPLNS and SOLO
+- [AFKPool](https://afkpool.com/bnt) - Multi-coin Pool with BNT mining
 
 # Interfaces
 - [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust
