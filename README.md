@@ -26,6 +26,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 # Miners
 - [Seine](https://github.com/zpalmtree/seine) - TUI Miner written in Rust
 - [Longhorn](https://www.longhornpool.net/download) - CPU and GPU Miner tuned for AMD, for Linux and Windows
+- [NTMminer-BNT](https://kc.txedu.social/) - CPU Miner for NTMminer Pool with 0% fee, for Linux and Windows
 
 # Mining Pools
 - [BNTPool](https://bntpool.com/#/start) - The first BNT Pool
