@@ -10,11 +10,6 @@ A curated list of Blocknet projects and resources.
 
 If you would like to add your Blocknet project, please take a look at the [Contributing](./Contributing.md) page and create a PR for your addition.
 
-# Content
-
-- [General](#general)
-- [Projects](#projects)
-
 # General
 - [Blocknet](https://github.com/blocknetprivacy/blocknet) - Blocknet source code
 - [Blocknet Website](https://blocknetcrypto.com/) - Official website for Blocknet
