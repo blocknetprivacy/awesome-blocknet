@@ -32,6 +32,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [Blocknet-Miner](https://github.com/blocknetprivacy/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
 - [Seine](https://github.com/zpalmtree/seine) - TUI Miner written in Rust
 - [BNTPool](https://bntpool.com/#/start) - The first BNT Pool
+- [Longhorn Pool](https://www.longhornpool.net/) - BNT Pool with 0% pool fee, PPLNS and SOLO
 
 # Interfaces
 - [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust
