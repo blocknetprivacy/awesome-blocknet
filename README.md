@@ -34,7 +34,6 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [blocknet-pool](https://github.com/zpalmtree/blocknet-pool) - Source code for BNTPool written in Rust
 
 # Interfaces
-- [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust
 - [blocknet-gui](https://github.com/blocknetprivacy/blocknet-gui) - A graphical interface for Blocknet, built with Tauri
 - [Gyroid](https://github.com/obselate/gyroid) - Blocknet wallet with a graphical interface and command-line tools
 - [blocknet-android](https://github.com/crappyrules/blocknet-android) - Native Android wallet for Blocknet written in Java
