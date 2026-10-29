@@ -37,6 +37,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [AFKPool](https://afkpool.com/bnt) - Multi-coin Pool with BNT mining
 - [Longhorn](https://www.longhornpool.net/download) - CPU and GPU Miner tuned for AMD, for Linux and Windows
 - [SineMiner](https://github.com/SecretArrow/sine-miner) - Android Miner with wallet create and import written in Kotlin and Rust
+- [blocknet-pool](https://github.com/zpalmtree/blocknet-pool) - Source code for BNTPool written in Rust
 
 # Interfaces
 - [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust
