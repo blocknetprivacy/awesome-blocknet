@@ -27,6 +27,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 # Services
 - [Blocknet.id](https://blocknet.id) - Short name service on Blocknet
 - [BNTPay](https://bntpay.com) - Free resolver service for blocknet:// payment links
+- [PowHub](https://www.powhub.top/) - Chinese-language community hub with mining tools, BNT/USDT P2P trading and apps
 
 # Mining
 - [Blocknet-Miner](https://github.com/crappyrules/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
