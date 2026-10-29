@@ -15,7 +15,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [Blocknet Website](https://blocknetcrypto.com/) - Official website for Blocknet
 - [Blocknet Explorer](https://explorer.blocknetcrypto.com/) - Explorer website for Blocknet
 - [Blocknet API Documentation](https://blocknetcrypto.com/api) - Documentation for Blocknet's daemon API
-- [Blocknet Node Map](https://github.com/crappyrules/blocknet-nodemap) - World map of Blocknet nodes
+- [Blocknet Node Map](https://blocknetnodes.toxicrainbows.com/) - World map of Blocknet nodes
 - [Blocknet Paper Wallet Generator](https://github.com/crappyrules/blocknet-paperwallet) - Generator for offline wallets
 
 # Services
@@ -23,14 +23,15 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [BNTPay](https://bntpay.com) - Free resolver service for blocknet:// payment links
 - [PowHub](https://www.powhub.top/) - Chinese-language community hub with mining tools, BNT/USDT P2P trading and apps
 
-# Mining
-- [Blocknet-Miner](https://github.com/blocknetprivacy/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
+# Miners
 - [Seine](https://github.com/zpalmtree/seine) - TUI Miner written in Rust
+- [Longhorn](https://www.longhornpool.net/download) - CPU and GPU Miner tuned for AMD, for Linux and Windows
+
+# Mining Pools
 - [BNTPool](https://bntpool.com/#/start) - The first BNT Pool
 - [Longhorn Pool](https://www.longhornpool.net/) - BNT Pool with 0% pool fee, PPLNS and SOLO
 - [NTMminer Pool](https://kc.txedu.social/#/) - Chinese-language BNT Pool with 0% fee, PPLNS and SOLO
 - [AFKPool](https://afkpool.com/bnt) - Multi-coin Pool with BNT mining
-- [Longhorn](https://www.longhornpool.net/download) - CPU and GPU Miner tuned for AMD, for Linux and Windows
 - [blocknet-pool](https://github.com/zpalmtree/blocknet-pool) - Source code for BNTPool written in Rust
 
 # Interfaces
