@@ -39,3 +39,4 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [blocknet-gui](https://github.com/blocknetprivacy/blocknet-gui) - A graphical interface for Blocknet, built with Tauri
 - [blocknet-tauri](https://github.com/blocknetprivacy/blocknet-tauri) - A graphical interface for Blocknet, built with Tauri
 - [Gyroid](https://github.com/obselate/gyroid) - Blocknet wallet with a graphical interface and command-line tools
+- [blocknet-android](https://github.com/crappyrules/blocknet-android) - Native Android wallet for Blocknet written in Java
