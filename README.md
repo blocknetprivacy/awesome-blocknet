@@ -35,4 +35,4 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 
 # Interfaces
 - [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust
-- [blocknet-tauri](https://github.com/blocknetprivacy/blocknet-tauri) - A graphical interface for Blocknet, built with Tauri
+- [blocknet-gui](https://github.com/blocknetprivacy/blocknet-gui) - A graphical interface for Blocknet, built with Tauri
