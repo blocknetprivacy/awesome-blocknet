@@ -24,12 +24,12 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [PowHub](https://www.powhub.top/) - Chinese-language community hub with mining tools, BNT/USDT P2P trading and apps
 
 # Miners
-- [Seine](https://github.com/zpalmtree/seine) - TUI Miner written in Rust
+- [Seine](https://seineminer.com/) - CPU and GPU Miner, for Linux, Windows and Mac
 - [Longhorn](https://www.longhornpool.net/download) - CPU and GPU Miner tuned for AMD, for Linux and Windows
 - [NTMminer-BNT](https://kc.txedu.social/) - CPU Miner for NTMminer Pool with 0% fee, for Linux and Windows
 
 # Mining Pools
-- [BNTPool](https://bntpool.com/#/start) - The first BNT Pool
+- [BNTPool](https://bntpool.com/#/start) - The first BNT Pool with 0% pool fee, PPLNS and SOLO
 - [Longhorn Pool](https://www.longhornpool.net/) - BNT Pool with 0% pool fee, PPLNS and SOLO
 - [NTMminer Pool](https://kc.txedu.social/#/) - Chinese-language BNT Pool with 0% fee, PPLNS and SOLO
 - [AFKPool](https://afkpool.com/bnt) - Multi-coin Pool with BNT mining
