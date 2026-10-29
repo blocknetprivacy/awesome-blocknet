@@ -29,7 +29,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [BNTPay](https://bntpay.com) - Free resolver service for blocknet:// payment links
 
 # Mining
-- [Blocknet-Miner](https://github.com/crappyrules/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
+- [Blocknet-Miner](https://github.com/blocknetprivacy/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
 - [Seine](https://github.com/zpalmtree/seine) - TUI Miner written in Rust
 - [BNTPool](https://bntpool.com/#/start) - The first BNT Pool
 
