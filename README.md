@@ -23,6 +23,9 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [BNTPay](https://bntpay.com) - Free resolver service for blocknet:// payment links
 - [PowHub](https://www.powhub.top/) - Chinese-language community hub with mining tools, BNT/USDT P2P trading and apps
 
+# Exchanges
+- [SafeTrade](https://safetrade.com/exchange/BNT-USDT) - Centralized exchange with BNT/USDT trading
+
 # Miners
 - [Seine](https://seineminer.com/) - CPU and GPU Miner, for Linux, Windows and Mac
 - [Longhorn](https://www.longhornpool.net/download) - CPU and GPU Miner tuned for AMD, for Linux and Windows
