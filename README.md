@@ -32,7 +32,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [NTMminer-BNT](https://kc.txedu.social/) - CPU Miner for NTMminer Pool with 0% fee, for Linux and Windows
 
 # Mining Pools
-- [BNTPool](https://bntpool.com/#/start) - The first BNT Pool with 0% pool fee, PPLNS and SOLO
+- [BNTPool](https://bntpool.com/start) - The first BNT Pool with 0% pool fee, PPLNS and SOLO
 - [Longhorn Pool](https://www.longhornpool.net/) - BNT Pool with 0% pool fee, PPLNS and SOLO
 - [NTMminer Pool](https://kc.txedu.social/#/) - Chinese-language BNT Pool with 0% fee, PPLNS and SOLO
 - [AFKPool](https://afkpool.com/bnt) - Multi-coin Pool with BNT mining
